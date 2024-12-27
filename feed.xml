@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>„Alt+Shift“ klaviatūra</title>
+    <description>„Alt+Shift“ yra pilna lietuviška klaviatūra Jūsų „iPhone“, „iPod touch“ ir „iPad“ įrenginiams. Įdiekite klaviatūrą „Alt+Shift“ ir rašykite lietuviškai visose savo naudojamose programėlėse!
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 May 2015 17:20:47 +0300</pubDate>
+    <lastBuildDate>Fri, 22 May 2015 17:20:47 +0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
